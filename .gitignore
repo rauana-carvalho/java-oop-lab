@@ -1,0 +1,5 @@
+# Ignorar todos os arquivos compilados Java
+*.class
+
+# Ignorar tudo dentro da pasta aula
+/aula/

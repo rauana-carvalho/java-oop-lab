@@ -1,10 +1,10 @@
+package javaintroduction;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Divisao {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        try {
+        try (Scanner input = new Scanner(System.in)) {
             System.out.println("Insira o primeiro número");
             double primeiroNumero = input.nextDouble();
             System.out.println("Insira o segundo número");
