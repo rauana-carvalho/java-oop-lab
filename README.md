@@ -18,17 +18,13 @@ This repository contains exercises and example projects written in Java, focused
 │   ├── Calculadora.java            # Basic arithmetic operations
 │   └── Divisao.java                # Division with exception handling
 ├── sistemapagamento/              # Object-oriented employee payment system
-│   ├── CalculoPagamento.class
-│   ├── Funcionarios.class
-│   └── SistemaPagamentoFuncionarios.class
-├── aula/                           # In-class exercises (Portuguese: "aula" = lesson)
-│   └── ...
+│   ├── CalculoPagamento.java
+│   ├── Funcionarios.java
+│   └── SistemaPagamentoFuncionarios.java
 ```
 
-- `.java`: Java source files  
-- `.class`: Compiled Java classes (automatically generated)  
-- `.gitignore`: Lists files and folders excluded from version control  
-- `aula/`: Classroom or lesson-based activities
+- `.java`: Java source files
+- `.gitignore`: Lists files and folders excluded from version control
 
 ---
 
